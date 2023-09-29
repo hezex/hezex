@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hezex
+- 👋 Hi, I’m @hez_EX
 - 👀 I’m interested in something useful through C++ console application
 - 🌱 I’m currently learning C++++++++++++++++++
 - 📫 How to reach me hezexi520@163.com
